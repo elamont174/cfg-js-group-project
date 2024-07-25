@@ -21,6 +21,7 @@ BONUS
 We decided to create a 'To Do List' using mainly JavaScript. We collaborated using CodePen and Slack Huddle, used our course content and created the code together. We then took sections of the presentation to work on separately and put them together on a shared PowerPoint presentation.
 
 ## Deployed site
+- [Click here](https://elamont174.github.io/cfg-js-group-project/)
 
 ## Team
 - Mariana Barbieru
