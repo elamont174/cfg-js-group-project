@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
+
+body {
+    font-family: 'Kalnia Glaze', sans-serif;
+    text align: center;
+}
+
+h1 {
+    colour: pink;
+}
+
+input {
+    padding: 5px;
+    font-size: 20px;
+}
+
+button {
+    padding: 5px 5px;
+    font-size: 15px;
+}
+
+#list {
+    margin-top: 20px;
+    font-size: 18px;
+}
