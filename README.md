@@ -11,7 +11,7 @@ The aim was
 - Get input rom the user on a web page
 - Make changes to the HTML and/or CSS using JavaScript
 - Use an event to trigger a change to a web page
-BONUS
+* BONUS
 - Add HTML elements to a web page using the DOM
 - Remove HTML elements from a web page using the DOM
 - Research and use other DOM events
@@ -24,7 +24,7 @@ We decided to create a 'To Do List' using mainly JavaScript. We collaborated usi
 - [Click here](https://elamont174.github.io/cfg-js-group-project/)
 
 ## Team
-- Mariana Barbieru
+- Mariana Barbieru [GitHub](https://github.com/MarianaBarbieru34)
 - Emma Lamont [GitHub](https://github.com/elamont174) [LinkedIn](https://www.linkedin.com/in/emma-lamont/) 
 - Esther Mngola
 - Oliwia Szuster
